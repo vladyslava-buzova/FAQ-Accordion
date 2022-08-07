@@ -141,7 +141,7 @@ main {
 }
 
 .question {
-  background: var(--clr-white);
+  background: white;
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
   padding: 1.5rem 1.5rem 0 1.5rem;
